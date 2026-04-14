@@ -13,11 +13,7 @@ This is the place where I opensource stuff and break things 🤣
 ```text
 💬 Programming Languages: 
 No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
 ```
 
 
- Last Updated on 14/04/2026 17:45:37 UTC
 <!--END_SECTION:waka-->
