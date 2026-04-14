@@ -7,7 +7,6 @@ This is the place where I opensource stuff and break things 🤣
 - 📫 How to reach me: @theodev-lab
 - ⚡ Fun fact: I open the fridge 10 times a day for no reason
 
-## 📊 This Week I Spent My Time On
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
 
