@@ -6,3 +6,6 @@ This is the place where I opensource stuff and break things 🤣
 - 🌱 I’m currently learning AI, ML and quantitative finance
 - 📫 How to reach me: @theodev-lab
 - ⚡ Fun fact: I open the fridge 10 times a day for no reason
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
