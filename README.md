@@ -12,7 +12,7 @@ This is the place where I opensource stuff and break things 🤣
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TeX                      1 hr                █████████████████████████   100.00 % 
 ```
 
 
