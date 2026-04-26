@@ -12,11 +12,11 @@ This is the place where I opensource stuff and break things 🤣
 
 ```text
 💬 Programming Languages: 
-C                        13 hrs 31 mins      ████████████████████░░░░░   78.29 % 
-Vue                      2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
-Makefile                 49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-Python                   20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
-TypeScript               17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+C                        9 hrs 36 mins       █████████████████░░░░░░░░   68.89 % 
+Vue                      2 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
+Makefile                 48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
+TypeScript               44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+Python                   29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
 ```
 
 
