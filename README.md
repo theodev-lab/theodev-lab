@@ -12,11 +12,11 @@ This is the place where I opensource stuff and break things 🤣
 
 ```text
 💬 Programming Languages: 
-TypeScript               12 hrs 32 mins      ██████████░░░░░░░░░░░░░░░   38.97 % 
-C                        8 hrs 58 mins       ███████░░░░░░░░░░░░░░░░░░   27.91 % 
-TeX                      8 hrs 26 mins       ███████░░░░░░░░░░░░░░░░░░   26.22 % 
-HTML                     34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
-Markdown                 29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+TypeScript               12 hrs 32 mins      ██████████░░░░░░░░░░░░░░░   38.65 % 
+C                        8 hrs 59 mins       ███████░░░░░░░░░░░░░░░░░░   27.68 % 
+TeX                      8 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   26.78 % 
+HTML                     34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+Markdown                 29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
 ```
 
 
