@@ -12,8 +12,7 @@ This is the place where I opensource stuff and break things 🤣
 
 ```text
 💬 Programming Languages: 
-TeX                      2 hrs 7 mins        █████████████████████████   99.03 % 
-Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+No Activity Tracked This Week
 ```
 
 
