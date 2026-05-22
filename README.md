@@ -12,7 +12,11 @@ This is the place where I opensource stuff and break things 🤣
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Text                     23 mins             ██████████████░░░░░░░░░░░   54.83 % 
+C                        13 mins             ████████░░░░░░░░░░░░░░░░░   30.68 % 
+CMake                    3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
+Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
 ```
 
 
