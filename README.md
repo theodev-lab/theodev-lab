@@ -8,16 +8,5 @@ This is the place where I opensource stuff and break things 🤣
 - ⚡ Fun fact: I open the fridge 10 times a day for no reason
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TeX                      7 hrs 29 mins       ████████████░░░░░░░░░░░░░   46.72 % 
-Python                   3 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   20.80 % 
-Text                     3 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   20.64 % 
-YAML                     58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
-C                        48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-```
-
 
 <!--END_SECTION:waka-->
