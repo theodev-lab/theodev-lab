@@ -12,7 +12,9 @@ This is the place where I opensource stuff and break things 🤣
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     1 min               █████████████░░░░░░░░░░░░   51.72 % 
+Bash                     1 min               ██████████░░░░░░░░░░░░░░░   40.03 % 
+Other                    0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
 ```
 
 
