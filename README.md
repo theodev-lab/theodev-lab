@@ -14,7 +14,9 @@ This is the place where I opensource stuff and break things 🤣
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Git Config               1 min               ███████████████████░░░░░░   77.08 % 
+Java                     0 secs              ██████░░░░░░░░░░░░░░░░░░░   22.00 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
 ```
 
 🤖 **AI Coding This Week** 
