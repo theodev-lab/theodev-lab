@@ -14,9 +14,7 @@ This is the place where I opensource stuff and break things 🤣
 
 ```text
 💬 Programming Languages: 
-Java                     4 mins              ███████████████████░░░░░░   75.19 % 
-Git Config               1 min               ██████░░░░░░░░░░░░░░░░░░░   24.52 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Java                     4 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
