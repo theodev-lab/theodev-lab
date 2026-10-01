@@ -14,7 +14,7 @@ This is the place where I opensource stuff and break things 🤣
 
 ```text
 💬 Programming Languages: 
-Python                   12 mins             █████████████████████████   100.00 % 
+Python                   34 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
